@@ -1,0 +1,109 @@
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-12T00:54:29.731Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-12T00:54:30.134Z"}
+{"level":"info","message":"HTTP Server listening on port:5000, in development mode","timestamp":"2017-12-12T00:54:30.149Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-12T00:54:30.198Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T00:55:31.094Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T00:55:31.419Z"}
+{"level":"verbose","message":"Get MyPics for a user","timestamp":"2017-12-12T00:55:31.421Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T01:22:18.816Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T01:22:19.078Z"}
+{"level":"verbose","message":"Get MyPics for a user","timestamp":"2017-12-12T01:22:19.079Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T01:23:38.238Z"}
+{"level":"verbose","message":"Create a MyPic","timestamp":"2017-12-12T01:23:38.241Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T01:23:38.454Z"}
+{"level":"verbose","message":"Upload file for mypic 5a2f2f9a929d8f98d8be11d8 and 5a2b62e13b74177c14cfe86a","timestamp":"2017-12-12T01:23:38.528Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T01:23:44.138Z"}
+{"level":"verbose","message":"Get MyPics for a user","timestamp":"2017-12-12T01:23:44.138Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T01:23:46.477Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T01:48:48.145Z"}
+{"level":"verbose","message":"Update Mypic with id MyPicid5a2f0ac5fafec4048c9b280a","timestamp":"2017-12-12T01:48:48.150Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T01:48:49.756Z"}
+{"level":"verbose","message":"Update Mypic with id MyPicid5a2f2f9a929d8f98d8be11d8","timestamp":"2017-12-12T01:48:49.756Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T01:48:56.262Z"}
+{"level":"verbose","message":"Get MyPics for a user","timestamp":"2017-12-12T01:48:56.264Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T01:49:23.282Z"}
+{"level":"verbose","message":"Update Mypic with id MyPicid5a2f0015fafec4048c9b2808","timestamp":"2017-12-12T01:49:23.283Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T01:49:57.423Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T01:49:57.642Z"}
+{"level":"verbose","message":"Get MyPics for a user","timestamp":"2017-12-12T01:49:57.671Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:00:06.355Z"}
+{"level":"verbose","message":"Get MyPics for a user","timestamp":"2017-12-12T02:00:06.356Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:00:15.300Z"}
+{"level":"verbose","message":"Get MyPics for a user","timestamp":"2017-12-12T02:00:15.301Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-12T02:01:44.306Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-12T02:01:46.477Z"}
+{"level":"info","message":"HTTP Server listening on port:5000, in development mode","timestamp":"2017-12-12T02:01:46.495Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-12T02:01:46.545Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:03:07.582Z"}
+{"level":"verbose","message":"Get MyPics for a user","timestamp":"2017-12-12T02:03:07.601Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:03:13.966Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:03:13.969Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:03:13.972Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:20:53.726Z"}
+{"level":"verbose","message":"Get MyPics for a user","timestamp":"2017-12-12T02:20:53.727Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:21:00.258Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:21:00.259Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:21:00.260Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:21:19.591Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:21:20.081Z"}
+{"level":"verbose","message":"Get MyPics for a user","timestamp":"2017-12-12T02:21:20.087Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:21:23.484Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:21:23.485Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:21:23.488Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:22:00.072Z"}
+{"level":"verbose","message":"Get MyPics for a user","timestamp":"2017-12-12T02:22:00.072Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:22:01.836Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:22:01.838Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:22:01.839Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:22:03.414Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-12T02:23:08.236Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-12T02:23:10.174Z"}
+{"level":"info","message":"HTTP Server listening on port:5000, in development mode","timestamp":"2017-12-12T02:23:10.240Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-12T02:23:10.341Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:23:45.467Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:23:45.865Z"}
+{"level":"verbose","message":"Get MyPics for a user","timestamp":"2017-12-12T02:23:45.867Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:23:48.313Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:24:00.131Z"}
+{"level":"verbose","message":"Get MyPics for a user","timestamp":"2017-12-12T02:24:00.132Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:24:03.688Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:24:03.691Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:24:03.692Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:24:50.018Z"}
+{"level":"verbose","message":"Get MyPics for a user","timestamp":"2017-12-12T02:24:50.018Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:24:51.520Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:24:51.542Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:24:51.546Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:24:53.630Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-12T02:26:15.748Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-12T02:26:16.137Z"}
+{"level":"info","message":"HTTP Server listening on port:5000, in development mode","timestamp":"2017-12-12T02:26:16.154Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-12T02:26:16.185Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:27:03.812Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:27:04.162Z"}
+{"level":"verbose","message":"Get MyPics for a user","timestamp":"2017-12-12T02:27:04.164Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:27:06.768Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:27:06.774Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:27:06.778Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:27:22.839Z"}
+{"level":"verbose","message":"Update Mypic with id MyPicid5a2f0015fafec4048c9b2808","timestamp":"2017-12-12T02:27:22.841Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:27:23.921Z"}
+{"level":"verbose","message":"Update Mypic with id MyPicid5a2f0ac5fafec4048c9b280a","timestamp":"2017-12-12T02:27:23.922Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:27:24.926Z"}
+{"level":"verbose","message":"Update Mypic with id MyPicid5a2f2f9a929d8f98d8be11d8","timestamp":"2017-12-12T02:27:24.927Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:31:45.635Z"}
+{"level":"verbose","message":"Get MyPics for a user","timestamp":"2017-12-12T02:31:45.637Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:31:45.771Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:31:45.775Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:31:45.777Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-12T02:34:29.026Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-12T02:34:29.532Z"}
+{"level":"info","message":"HTTP Server listening on port:5000, in development mode","timestamp":"2017-12-12T02:34:29.555Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-12T02:34:29.585Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:34:52.425Z"}
+{"level":"verbose","message":"Get MyPics for a user","timestamp":"2017-12-12T02:34:52.432Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:34:52.525Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:34:52.529Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:34:52.534Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:36:31.979Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-12T02:36:50.044Z"}

@@ -1,0 +1,59 @@
+<template style="background-color: rgb(238, 201, 122);">
+    <form>
+            <div item-width="60%">
+                    <span><i click.trigger="back()" class="fa fa-arrow-left fa-lg fa-4x" 	aria-hidden="true"></i></span>
+                <h1 style="font-family: palatino;color:rgb(28, 24, 43); text-align:center;"><b><i> Add Gallery Folder </i></b></h1>    
+                       
+            </div>
+           
+        
+    <table align="center" width="60%" 
+    style="border-radius: 8px; 
+    height: 300px;
+    vertical-align: middle;
+    background-color: rgb(248, 189, 122);
+    top:50%;
+    left:50%;" >
+    <tr><td colspan="3">&nbsp;</td></tr>
+
+    <tr>
+        <td width="5%">&nbsp;</td>
+        <td>            
+     <label for="mypicInput" style="color:rgb(17, 15, 20);font-size:140%;font-family: palatino;"><b><i>Gallery Name* </i></b></label>
+           <input value.bind="mypicObj.mypic" type="text" class="form-control" id="mypicInput" aria-describedby="mypicHelp" placeholder="Enter Gallery Name" width="80px">
+            </td>
+        <td>&nbsp;</td>
+    </tr>
+
+<tr><td colspan="3">&nbsp;</td></tr>
+    <tr>
+        <td width="5%">&nbsp;</td>
+        <td>
+    <label for="mypicInput" style="color:rgb(17, 15, 20);font-size:140%;font-family: palatino;"><b><i>Description* </i></b></label>
+    <input value.bind="mypicObj.description" type="text"  class="form-control" id="mypicInput" aria-describedby="mypicHelp" placeholder="Enter Description" width="80px">
+ </td>
+ <td>&nbsp;</td>
+   </tr>
+
+
+
+     <tr><td colspan="3">&nbsp;</td></tr>
+     <tr>
+         <td>&nbsp;</td>
+         <td>
+    <label for="dateCreatedInput" style="color:black;font-size:140%;font-family: palatino;"><b><i>Date Created*
+        </i></b></label><flat-picker value.bind="mypicObj.dateCreated"></flat-picker>
+           </td>
+           <td>&nbsp;</td>
+       </tr>
+    <tr><td colspan="3">&nbsp;</td></tr>
+    <tr ><td align="center" colspan="3" >
+       
+    <button click.trigger="saveMypic()" style="font-family:palatino;border-radius:6px;width:160px;height:40px;border:solid 2px;font-size:140%" ><b><i>Save</i></b></button>
+   </td>
+</tr>
+<tr><td colspan="3">&nbsp;</td></tr>
+</table>
+</form>
+</template>
+                    

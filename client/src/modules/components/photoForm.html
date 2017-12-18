@@ -1,0 +1,52 @@
+<template>
+        <div item-width="60%">
+                <span><i click.trigger="back()" class="fa fa-arrow-left fa-lg fa-4x" 	aria-hidden="true"></i></span>
+            <h1 style="font-family: palatino;color:rgb(28, 24, 43); text-align:center;"><b><i> Add Photo !! </i></b></h1>    
+            
+            
+        </div>
+
+                
+        <form>
+                <table align="center" width="40%" 
+                style="border-radius: 8px; 
+                height: 300px;
+                vertical-align: middle;
+                background-color: rgb(247, 146, 247);
+                top:50%;
+                left:50%;">
+                <!-- <div id="errorMsg" innerhtml.bind="loginError"></div> -->
+                
+                <tr>                        
+                        <td align="center">
+        
+                    <br><br>
+                    <label class="btn btn-primary" style="color:rgb(14, 13, 19);font-size:160%;font-family: palatino;">
+                            Click To Browse Photo
+                     <input type="file" 
+                        style="display: none;" 
+                        change.delegate="changeFiles()" files.bind="files"> 
+                        </label>
+                                              
+                        <br>
+                        <br>
+                                    <ul>
+                                        <li repeat.for="file of filesToUpload" class="list-group-item">
+                                            ${file.name}<span click.delegate="removeFile($index)" 
+                                            class="pull-right"><i class="fa fa-trash" aria-hidden="true">&nbsp;&nbsp;&nbsp;
+                                            </i></span></li>
+                                    </ul>
+                                <br>
+                                <br>
+                                <br>
+                        
+   
+                <button click.trigger="savePhotos()" style="font-family:palatino;border-radius:6px;width:160px;height:40px;border:solid 2px;font-size:140%" ><b><i>Save Photo</i></b></button>
+                            <br>
+                            <br>
+   
+                            </td>
+                            </tr>
+                            </table>
+                       </form>
+                      </template>

@@ -1,0 +1,52 @@
+<template style="background-color: rgb(31, 41, 53);">
+<form >
+    <h1 style="font-family: Times New Roman ;color:rgb(68, 21, 240); text-align:center;"><b><i> Gallery List !!</i></b></h1>   
+    
+<table align="center" width="60%" style="top:50%;left:50%;" >
+        <tr>
+          <td><button type="button"  click.trigger="createMypic()" style="font-family:palatino;border-radius:6px;width:160px;height:40px;border:solid 2px;font-size:140%"><b><i>Add Folder</i></b></button></td>
+          <td></td>
+          <td align="right"><button type="button"  click.trigger="logout()" style="font-family:palatino;border-radius:6px;width:160px;height:40px;border:solid 2px;font-size:140%"><b><i>Logout</i></b>&nbsp;&nbsp;</button></td>
+        </tr>
+        </table>      
+        <br>
+        <br>
+        <!--table class="table table-striped"-->
+            <div show.bind="mypics.mypicsArray.length">        
+
+<table align="center" width="60%"
+style="border-radius: 8px; 
+vertical-align: middle;
+background-color: rgb(157, 198, 245);
+top:50%;
+left:50%;" >
+            <tr>
+                 <th bgcolor="#C70039" style="text-align:center; color:rgb(240, 236, 236);font-size:160%;font-family: palatino;"><i>Gallery</i></th> 
+                 <th bgcolor="#C70039" style="text-align:center;color:rgb(248, 247, 247);font-size:160%;font-family: palatino;"><i>Date Created</i></th> 
+                 <th bgcolor="#C70039" style="text-align:center;color:rgb(252, 250, 250);font-size:160%;font-family: palatino;"><i>Edit</i></th> 
+                  <!-- <th align="center"><i>Gallery Name </i></th> 
+                <th align="center"></i>Date Created</i></th>
+                <th align="center"></i>Edit</i></th> -->
+                </tr>
+            </thead>
+         <tbody>
+            <tr repeat.for = "mypic of mypics.mypicsArray">
+            <td click.trigger="showPhotos(mypic)" style="text-align:center;font-family: palatino;font-size:140%;">${mypic.mypic}</td>
+            <!-- <td style="text-align:center;font-family: palatino;font-size:140%;">${mypic.description}</td> -->
+            <td style="text-align:center;font-family: palatino;font-size:140%;"><i>${mypic.dateCreated | dateFormat}</i></td>
+            <td style="text-align:center">
+            <i click.trigger="editMypic(mypic)" class="fa fa-pencil rightMargin" aria-hidden="true"></i>&nbsp;&nbsp;
+            <i click.trigger="deleteMypic(mypic)"class="fa fa-trash rightMargin" aria-hidden="true"></i>
+        </td>
+      </tr>
+    </tbody>
+    </table>
+    
+
+    <div show.bind="!mypics.mypicsArray.length">
+          <br><br>
+          <h2 style="text-align:center; color:black;font-family: palatino;"><i>No Folders!!! Would you like to add some ??</i></h2>
+      </div>
+
+  
+</template>

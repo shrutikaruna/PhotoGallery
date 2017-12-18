@@ -1,0 +1,920 @@
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:05:55.288Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T00:05:55.291Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:05:55.330Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:06:00.454Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T00:06:00.456Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:06:05.869Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T00:06:05.870Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:06:12.183Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T00:06:12.184Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:06:38.954Z"}
+{"level":"error","message":"","timestamp":"2017-12-18T00:06:39.136Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:06:49.431Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:06:49.615Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T00:06:49.616Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:06:56.841Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:06:57.698Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:07:12.316Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:07:12.514Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T00:07:12.516Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:07:15.555Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T00:07:15.557Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:25:18.364Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:25:18.540Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T00:25:18.541Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:25:21.832Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T00:25:21.834Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:25:28.240Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T00:25:28.240Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:25:30.691Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T00:25:30.693Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:25:39.505Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T00:25:39.506Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:25:45.419Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T00:25:45.421Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:32:44.954Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:32:45.149Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T00:32:45.151Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:32:47.552Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T00:32:47.554Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:33:03.166Z"}
+{"level":"verbose","message":"Create a photo","timestamp":"2017-12-18T00:33:03.169Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:33:03.394Z"}
+{"level":"verbose","message":"Upload file for my gallery 5a370cbf12ea5f6a540d1a1a and 5a2b62e13b74177c14cfe86a","timestamp":"2017-12-18T00:33:03.420Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:33:13.147Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T00:33:13.148Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:35:49.028Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:35:49.210Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T00:35:49.211Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:35:51.925Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T00:35:51.927Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:36:19.884Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:36:23.172Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:36:24.839Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:36:25.495Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:36:25.663Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:36:25.894Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:36:40.948Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:36:44.514Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:36:45.363Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:36:45.613Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:37:09.972Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:37:11.384Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:37:11.545Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:37:11.757Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:37:11.995Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:37:12.018Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:37:12.245Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:37:12.453Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:37:12.675Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:37:12.692Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:37:13.003Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:37:13.169Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:37:13.277Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:37:13.805Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:37:14.244Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:37:15.410Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:37:52.287Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:38:10.244Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:38:11.631Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:38:11.814Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:38:12.022Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:38:12.069Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:38:12.282Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:38:12.498Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:38:12.825Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:38:23.426Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:38:23.581Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:38:23.805Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:38:24.014Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:38:24.249Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:38:24.472Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:38:24.682Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:38:24.912Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:38:24.927Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:38:25.244Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:38:25.304Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:38:25.686Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:41:27.698Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:41:42.653Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:41:46.281Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:41:49.781Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:41:50.015Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:42:27.929Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:42:29.619Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:42:29.790Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:42:29.995Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:42:30.206Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:42:30.444Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:42:33.152Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:42:34.564Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:42:34.729Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:42:34.936Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:42:35.161Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:42:35.184Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:42:35.502Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:42:35.569Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:42:35.946Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:43:34.035Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:43:35.705Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:43:35.876Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:43:36.100Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:43:48.285Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:43:48.593Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T00:43:48.593Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:43:51.042Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T00:43:51.043Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:43:51.118Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:43:51.119Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:43:51.121Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:53:45.460Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:53:45.687Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T00:53:45.688Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:53:48.130Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T00:53:48.132Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:53:48.155Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:53:48.161Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:53:48.163Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:57:20.200Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:57:20.453Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T00:57:20.453Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:57:22.985Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T00:57:22.987Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:57:23.013Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:57:23.014Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:57:23.016Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:57:34.719Z"}
+{"level":"verbose","message":"Get user5a363d5ca0cb9546204c581d","timestamp":"2017-12-18T00:57:34.720Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:57:34.731Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:57:34.781Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:57:34.784Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:57:34.785Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T00:57:39.992Z"}
+{"level":"verbose","message":"Get user5a363865a0cb9546204c581c","timestamp":"2017-12-18T00:57:39.994Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:01:09.655Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:01:09.892Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T01:01:09.894Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:01:14.496Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T01:01:14.497Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:01:14.512Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:01:14.512Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:01:14.514Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:09:14.904Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:09:15.129Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T01:09:15.130Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:09:17.386Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T01:09:17.388Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:09:17.403Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:09:17.405Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:09:17.407Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:12:14.749Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:12:14.975Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T01:12:14.976Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:12:17.122Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T01:12:17.123Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:12:17.145Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:12:17.150Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:12:17.151Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:14:54.661Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:14:54.882Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T01:14:54.883Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:14:56.656Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T01:14:56.657Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:14:56.685Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:14:56.687Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:14:56.688Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:16:32.404Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:16:32.639Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T01:16:32.640Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:16:34.729Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T01:16:34.730Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:16:34.751Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:16:34.753Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:16:34.755Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:18:49.059Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:18:49.274Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T01:18:49.276Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:18:51.529Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T01:18:51.529Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:18:51.547Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:18:51.548Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:18:51.549Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:23:27.434Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T01:23:27.435Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:23:30.264Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T01:23:30.265Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:23:30.292Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:23:30.296Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:23:30.297Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:24:43.155Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T01:24:43.156Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:24:46.049Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T01:24:46.050Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:24:46.070Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:24:46.072Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:24:46.078Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:27:17.343Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T01:27:17.343Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:27:20.317Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T01:27:20.317Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:27:20.329Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:27:20.330Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:27:20.334Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:29:00.629Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T01:29:00.629Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:29:02.570Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T01:29:02.570Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:29:02.584Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:29:02.585Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:29:02.595Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:29:52.661Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T01:29:52.662Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:29:54.320Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T01:29:54.321Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:29:54.337Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:29:54.342Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:29:54.345Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:29:58.324Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T01:29:58.324Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:30:00.149Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T01:30:00.150Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:30:00.165Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:30:00.167Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:30:00.169Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:31:57.221Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T01:31:57.222Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:32:01.891Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T01:32:01.892Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:45:29.024Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T01:45:29.026Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:45:33.428Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T01:45:33.430Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:45:33.450Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:45:33.452Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:45:33.453Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:51:04.795Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T01:51:04.796Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:51:07.071Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T01:51:07.072Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:55:11.174Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T01:55:11.175Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T01:55:13.206Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T01:55:13.208Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:03:01.248Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T02:03:01.249Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:03:02.925Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T02:03:02.929Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:04:58.339Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T02:04:58.340Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:05:05.036Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T02:05:05.036Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:06:32.270Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T02:06:32.271Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:06:35.044Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T02:06:35.045Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:07:47.229Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T02:07:47.230Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:07:48.956Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T02:07:48.957Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:14:04.238Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T02:14:04.240Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:14:13.218Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T02:14:13.219Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:14:41.315Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T02:14:41.316Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:14:47.120Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T02:14:47.121Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:15:02.027Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T02:15:02.028Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:15:07.621Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T02:15:07.623Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:19:21.727Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T02:19:21.728Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:19:24.184Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T02:19:24.185Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:24:28.655Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T02:24:28.656Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:24:34.134Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T02:24:34.134Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:26:58.211Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T02:26:58.212Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:27:08.286Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T02:27:08.287Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:29:09.554Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T02:29:09.555Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:29:11.979Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T02:29:11.980Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:30:51.500Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T02:30:51.500Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:30:54.989Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T02:30:54.990Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:31:39.552Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T02:31:39.552Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:31:41.484Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T02:31:41.484Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:35:41.036Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T02:35:41.038Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:35:43.118Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T02:35:43.120Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:39:01.292Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T02:39:01.293Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:39:03.742Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T02:39:03.743Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:39:51.499Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T02:39:51.500Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:39:56.092Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T02:39:56.093Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:42:46.353Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T02:42:46.354Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:42:51.099Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T02:42:51.100Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:42:52.982Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T02:42:52.983Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:45:17.059Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T02:45:17.060Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:45:19.032Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T02:45:19.033Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:45:19.115Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:45:19.123Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:45:19.155Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:52:31.527Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T02:52:31.528Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:52:33.783Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T02:52:33.784Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:52:33.809Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:52:33.813Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:52:33.814Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:53:49.444Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T02:53:49.445Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:53:52.622Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T02:53:52.624Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:53:52.656Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:53:52.657Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T02:53:52.660Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T03:20:36.467Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T03:20:36.668Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T03:20:36.676Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T03:28:34.908Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T03:28:34.909Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T03:28:37.969Z"}
+{"level":"verbose","message":"Get user5a363788a0cb9546204c581a","timestamp":"2017-12-18T03:28:37.970Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T03:28:37.989Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T03:28:37.991Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T03:28:37.995Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T03:29:19.772Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T03:29:19.772Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T03:35:09.732Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T03:35:09.733Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T03:37:52.203Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T03:37:52.205Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T03:37:55.608Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T03:37:55.609Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T03:40:29.978Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T03:40:29.979Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T03:42:47.519Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T03:42:47.520Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T03:44:35.827Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T03:44:35.829Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T03:46:31.919Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T03:46:31.920Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T03:48:26.206Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T03:48:26.206Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T03:50:15.461Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T03:50:15.465Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T03:50:32.016Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T03:50:32.265Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T03:50:32.268Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T03:51:56.946Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T03:51:56.948Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T03:52:56.971Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T03:52:56.973Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T03:55:09.056Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T03:55:09.056Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-18T04:44:28.155Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-18T04:44:28.491Z"}
+{"level":"info","message":"HTTP Server listening on port:5000, in development mode","timestamp":"2017-12-18T04:44:28.505Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-18T04:44:28.529Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T04:46:10.397Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T04:46:10.711Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T04:46:10.714Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T04:48:24.783Z"}
+{"level":"verbose","message":"Get user5a363d5ca0cb9546204c581d","timestamp":"2017-12-18T04:48:24.784Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T04:48:25.087Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T04:48:25.095Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T04:48:25.427Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T04:48:25.430Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T04:57:50.710Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T04:57:50.941Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T04:57:50.942Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T05:00:35.049Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T05:00:35.050Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T05:00:40.946Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T05:00:40.946Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T05:02:41.691Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T05:02:41.691Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T05:10:24.054Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T05:10:24.054Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T05:15:41.465Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T05:15:41.466Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T05:25:51.083Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T05:25:51.084Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T05:31:26.416Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T05:31:26.417Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T05:38:41.901Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T05:38:41.901Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T05:41:25.141Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T05:41:25.142Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:02:11.592Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T06:02:11.593Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:03:25.321Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T06:03:25.322Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:03:49.978Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T06:03:49.978Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:08:49.258Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T06:08:49.258Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:09:47.274Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T06:09:47.276Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:10:37.486Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T06:10:37.486Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:11:37.421Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T06:11:37.423Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:14:35.911Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T06:14:35.913Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:14:52.268Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T06:14:52.270Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:24:38.226Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:24:38.411Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T06:24:38.413Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:29:47.724Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T06:29:47.726Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:30:45.356Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T06:30:45.356Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:32:24.005Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T06:32:24.006Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:33:46.851Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T06:33:46.852Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:35:55.828Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T06:35:55.830Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:36:26.895Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T06:36:26.896Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:38:21.407Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T06:38:21.409Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:40:19.786Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T06:40:19.787Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:42:03.530Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T06:42:03.532Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:44:28.257Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-18T06:44:28.259Z"}
+{"level":"error","message":"ValidationError: password: Path `password` is required., email: Path `email` is required., lastName: Path `lastName` is required., firstName: Path `firstName` is required.\n    at MongooseError.ValidationError (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\error\\validation.js:28:11)\n    at model.Document.invalidate (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\document.js:1658:32)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\document.js:1530:17\n    at validate (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\schematype.js:779:7)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\schematype.js:824:11\n    at Array.forEach (native)\n    at SchemaString.SchemaType.doValidate (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\schematype.js:784:19)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\document.js:1528:9\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\services\\model\\applyHooks.js:131:23)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\app\\controllers\\users.js:54:10\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)","timestamp":"2017-12-18T06:44:28.314Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:44:37.531Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:44:37.769Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T06:44:37.772Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:54:19.263Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T06:54:19.265Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:56:15.740Z"}
+{"level":"verbose","message":"Create a Gallery","timestamp":"2017-12-18T06:56:15.742Z"}
+{"level":"error","message":"WriteError({\"code\":11000,\"index\":0,\"errmsg\":\"E11000 duplicate key error collection: mypic-dev.mypics index: description_1 dup key: { : \\\"\\\" }\",\"op\":{\"mypic\":\"supi\",\"description\":\"\",\"userId\":\"5a2b62e13b74177c14cfe86a\",\"_id\":\"5a37668fdd930068f0f1f8dd\",\"dateCreated\":\"2017-12-18T06:54:22.291Z\",\"__v\":0}})\n    at Function.MongoError.create (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb-core\\lib\\error.js:31:11)\n    at toError (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\utils.js:139:22)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\collection.js:668:23\n    at handleCallback (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\utils.js:120:56)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\bulk\\unordered.js:465:9\n    at handleCallback (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\utils.js:120:56)\n    at resultHandler (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\bulk\\unordered.js:413:5)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb-core\\lib\\connection\\pool.js:469:18\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\services\\model\\applyHooks.js:131:23)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\app\\controllers\\mypics.js:70:14\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)","timestamp":"2017-12-18T06:56:16.094Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:56:23.912Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T06:56:23.913Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:56:34.364Z"}
+{"level":"verbose","message":"Delete pictures with id mypicid5a363865a0cb9546204c581c","timestamp":"2017-12-18T06:56:34.367Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:56:38.834Z"}
+{"level":"verbose","message":"Delete pictures with id mypicid5a363788a0cb9546204c581a","timestamp":"2017-12-18T06:56:38.835Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:59:31.108Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-18T06:59:31.110Z"}
+{"level":"error","message":"ValidationError: password: Path `password` is required., email: Path `email` is required., lastName: Path `lastName` is required., firstName: Path `firstName` is required.\n    at MongooseError.ValidationError (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\error\\validation.js:28:11)\n    at model.Document.invalidate (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\document.js:1658:32)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\document.js:1530:17\n    at validate (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\schematype.js:779:7)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\schematype.js:824:11\n    at Array.forEach (native)\n    at SchemaString.SchemaType.doValidate (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\schematype.js:784:19)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\document.js:1528:9\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\services\\model\\applyHooks.js:131:23)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\app\\controllers\\users.js:54:10\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)","timestamp":"2017-12-18T06:59:31.142Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:59:43.413Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T06:59:43.691Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T06:59:43.692Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T07:08:41.759Z"}
+{"level":"verbose","message":"Create a Gallery","timestamp":"2017-12-18T07:08:41.760Z"}
+{"level":"error","message":"ValidationError: mypic: Path `mypic` is required.\n    at MongooseError.ValidationError (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\error\\validation.js:28:11)\n    at model.Document.invalidate (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\document.js:1658:32)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\document.js:1530:17\n    at validate (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\schematype.js:779:7)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\schematype.js:824:11\n    at Array.forEach (native)\n    at SchemaString.SchemaType.doValidate (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\schematype.js:784:19)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\document.js:1528:9\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\services\\model\\applyHooks.js:131:23)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\app\\controllers\\mypics.js:70:14\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)","timestamp":"2017-12-18T07:08:41.787Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T07:08:52.586Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T07:08:52.587Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T07:11:43.982Z"}
+{"level":"verbose","message":"Create a Gallery","timestamp":"2017-12-18T07:11:43.985Z"}
+{"level":"error","message":"ValidationError: mypic: Path `mypic` is required.\n    at MongooseError.ValidationError (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\error\\validation.js:28:11)\n    at model.Document.invalidate (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\document.js:1658:32)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\document.js:1530:17\n    at validate (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\schematype.js:779:7)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\schematype.js:824:11\n    at Array.forEach (native)\n    at SchemaString.SchemaType.doValidate (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\schematype.js:784:19)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\document.js:1528:9\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\services\\model\\applyHooks.js:131:23)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\app\\controllers\\mypics.js:70:14\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)","timestamp":"2017-12-18T07:11:44.033Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T07:18:17.616Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T07:18:17.617Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T07:21:36.797Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T07:21:36.798Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T07:28:55.886Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T07:28:55.887Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T07:32:07.261Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T07:32:07.265Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T07:36:04.604Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T07:36:04.606Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T07:39:35.860Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T07:39:35.861Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T07:43:36.258Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T07:43:36.260Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T07:44:53.133Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T07:44:53.133Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T07:47:54.884Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T07:47:54.885Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T07:52:41.924Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T07:52:41.925Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T07:58:08.565Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T07:58:08.566Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T08:01:42.202Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T08:01:42.203Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T08:05:35.352Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T08:05:35.354Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T08:06:38.456Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T08:06:38.509Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T08:07:38.838Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T08:07:38.839Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T08:08:24.383Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T08:08:24.384Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T08:11:39.221Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T08:11:39.222Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T08:17:11.182Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T08:17:11.184Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T08:21:06.342Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T08:21:06.343Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T08:21:47.823Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-18T08:21:47.828Z"}
+{"level":"error","message":"WriteError({\"code\":11000,\"index\":0,\"errmsg\":\"E11000 duplicate key error collection: mypic-dev.users index: email_1 dup key: { : \\\"snehakaruna@gmail.com\\\" }\",\"op\":{\"firstName\":\"sneha\",\"lastName\":\"karuna\",\"email\":\"snehakaruna@gmail.com\",\"password\":\"$2a$10$pCTNllv6132SJNrZOiEtXu46oR8e8M8Kp4hc0e6ZnbIgH.y9VvEhq\",\"_id\":\"5a377a9bdd930068f0f1f8e1\",\"Status\":true,\"dateregistered\":\"2017-12-18T08:21:47.829Z\",\"__v\":0}})\n    at Function.MongoError.create (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb-core\\lib\\error.js:31:11)\n    at toError (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\utils.js:139:22)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\collection.js:668:23\n    at handleCallback (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\utils.js:120:56)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\bulk\\unordered.js:465:9\n    at handleCallback (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\utils.js:120:56)\n    at resultHandler (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\bulk\\unordered.js:413:5)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb-core\\lib\\connection\\pool.js:469:18\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\services\\model\\applyHooks.js:131:23)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\app\\controllers\\users.js:54:10\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)","timestamp":"2017-12-18T08:21:48.098Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T08:22:32.360Z"}
+{"level":"error","message":"","timestamp":"2017-12-18T08:22:32.549Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T08:27:10.598Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-18T08:27:10.605Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T08:34:17.848Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-18T08:34:17.852Z"}
+{"level":"error","message":"ValidationError: lastName: Path `lastName` is required., firstName: Path `firstName` is required.\n    at MongooseError.ValidationError (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\error\\validation.js:28:11)\n    at model.Document.invalidate (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\document.js:1658:32)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\document.js:1530:17\n    at validate (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\schematype.js:779:7)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\schematype.js:824:11\n    at Array.forEach (native)\n    at SchemaString.SchemaType.doValidate (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\schematype.js:784:19)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\document.js:1528:9\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\services\\model\\applyHooks.js:131:23)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\app\\controllers\\users.js:54:10\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)","timestamp":"2017-12-18T08:34:17.890Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-18T08:44:06.892Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-18T08:44:08.692Z"}
+{"level":"info","message":"HTTP Server listening on port:5000, in development mode","timestamp":"2017-12-18T08:44:08.718Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-18T08:44:08.766Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-18T08:44:37.851Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-18T08:44:38.184Z"}
+{"level":"info","message":"HTTP Server listening on port:5000, in development mode","timestamp":"2017-12-18T08:44:38.199Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-18T08:44:38.274Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T08:45:47.629Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-18T08:45:47.719Z"}
+{"level":"error","message":"WriteError({\"code\":11000,\"index\":0,\"errmsg\":\"E11000 duplicate key error collection: mypic-dev.users index: email_1 dup key: { : \\\"supi@gmail.com\\\" }\",\"op\":{\"firstName\":\"supi\",\"lastName\":\"g\",\"email\":\"supi@gmail.com\",\"password\":\"$2a$10$ySst9a0uawbVxf6BkJnAiezxZQHlquy0I1rdtlmvqNotdR/oy1Mom\",\"_id\":\"5a37803b03f262459876c94f\",\"Status\":true,\"dateregistered\":\"2017-12-18T08:45:47.723Z\",\"__v\":0}})\n    at Function.MongoError.create (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb-core\\lib\\error.js:31:11)\n    at toError (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\utils.js:139:22)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\collection.js:668:23\n    at handleCallback (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\utils.js:120:56)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\bulk\\unordered.js:465:9\n    at handleCallback (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\utils.js:120:56)\n    at resultHandler (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\bulk\\unordered.js:413:5)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb-core\\lib\\connection\\pool.js:469:18\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\services\\model\\applyHooks.js:131:23)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\app\\controllers\\users.js:52:14\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)","timestamp":"2017-12-18T08:45:48.004Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T08:46:24.091Z"}
+{"level":"error","message":"","timestamp":"2017-12-18T08:46:24.312Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T08:46:36.158Z"}
+{"level":"error","message":"","timestamp":"2017-12-18T08:46:36.340Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T08:46:52.833Z"}
+{"level":"error","message":"","timestamp":"2017-12-18T08:46:53.024Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T08:50:04.215Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T08:50:04.590Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T08:50:04.592Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T08:51:10.853Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T08:51:10.855Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T08:51:10.909Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T08:58:28.196Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T08:58:28.196Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T08:58:36.861Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T08:58:36.862Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T08:58:36.882Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:02:49.491Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T09:02:49.493Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:02:51.637Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T09:02:51.640Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:02:51.653Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:06:47.871Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T09:06:47.872Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:06:53.981Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T09:06:53.986Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:06:54.002Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:08:02.743Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:08:03.096Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T09:08:03.098Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:08:09.137Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T09:08:09.138Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:13:48.931Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T09:13:48.932Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:13:51.903Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T09:13:51.904Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:13:51.918Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:17:33.126Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T09:17:33.127Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:17:35.240Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T09:17:35.241Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:17:35.254Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:21:28.503Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T09:21:28.504Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:21:33.021Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T09:21:33.022Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:21:33.043Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:23:50.682Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T09:23:50.686Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:23:52.043Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T09:23:52.045Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:23:52.062Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:25:44.300Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T09:25:44.301Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:25:45.938Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T09:25:45.939Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:25:45.950Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:30:27.526Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T09:30:27.528Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:30:33.167Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T09:30:33.170Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:30:33.184Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:31:51.208Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T09:31:51.209Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:31:53.817Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T09:31:53.818Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:31:53.830Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:34:51.377Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T09:34:51.378Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:34:52.826Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T09:34:52.827Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:34:52.841Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:37:15.965Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T09:37:15.966Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:37:17.893Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T09:37:17.894Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:37:17.908Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:37:42.116Z"}
+{"level":"verbose","message":"Create a photo","timestamp":"2017-12-18T09:37:42.120Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:37:42.208Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:37:42.219Z"}
+{"level":"verbose","message":"Upload file for my gallery 5a378c6603f262459876c950 and 5a2b62e13b74177c14cfe86a","timestamp":"2017-12-18T09:37:42.267Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:37:47.290Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T09:37:47.292Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:37:49.389Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T09:37:49.395Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:37:49.407Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:37:49.411Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:41:45.380Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T09:41:45.383Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:41:47.138Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T09:41:47.139Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:41:47.153Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:41:47.155Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:45:44.631Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T09:45:44.632Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:45:46.792Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T09:45:46.797Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:45:46.813Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:45:46.815Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:48:27.374Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T09:48:27.376Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:48:28.878Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T09:48:28.880Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:48:28.899Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:48:28.905Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:48:39.321Z"}
+{"level":"verbose","message":"Create a photo","timestamp":"2017-12-18T09:48:39.323Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:48:39.345Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:48:39.354Z"}
+{"level":"verbose","message":"Upload file for my gallery 5a378ef703f262459876c951 and 5a2b62e13b74177c14cfe86a","timestamp":"2017-12-18T09:48:39.440Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:48:43.826Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T09:48:43.827Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:48:45.988Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T09:48:45.989Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:48:46.009Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:48:46.011Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:48:46.014Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T09:53:48.741Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T09:53:48.742Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T10:01:36.124Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T10:01:36.126Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T10:06:48.070Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T10:06:48.071Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T10:08:18.641Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T10:08:18.644Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T10:13:37.702Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T10:13:37.703Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T10:15:17.584Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T10:15:17.585Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T10:20:54.322Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T10:20:54.323Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T10:23:23.719Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T10:23:23.720Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T10:25:23.964Z"}
+{"level":"verbose","message":"Create a Gallery","timestamp":"2017-12-18T10:25:23.969Z"}
+{"level":"error","message":"WriteError({\"code\":11000,\"index\":0,\"errmsg\":\"E11000 duplicate key error collection: mypic-dev.mypics index: description_1 dup key: { : \\\"\\\" }\",\"op\":{\"mypic\":\"shruti\",\"description\":\"\",\"userId\":\"5a2b62e13b74177c14cfe86a\",\"_id\":\"5a37979303f262459876c952\",\"dateCreated\":\"2017-12-18T10:25:15.843Z\",\"__v\":0}})\n    at Function.MongoError.create (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb-core\\lib\\error.js:31:11)\n    at toError (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\utils.js:139:22)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\collection.js:668:23\n    at handleCallback (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\utils.js:120:56)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\bulk\\unordered.js:465:9\n    at handleCallback (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\utils.js:120:56)\n    at resultHandler (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\bulk\\unordered.js:413:5)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb-core\\lib\\connection\\pool.js:469:18\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\services\\model\\applyHooks.js:131:23)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\app\\controllers\\mypics.js:70:14\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)","timestamp":"2017-12-18T10:25:24.008Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T10:25:30.170Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T10:25:30.171Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T10:26:01.058Z"}
+{"level":"verbose","message":"Create a Gallery","timestamp":"2017-12-18T10:26:01.061Z"}
+{"level":"error","message":"WriteError({\"code\":11000,\"index\":0,\"errmsg\":\"E11000 duplicate key error collection: mypic-dev.mypics index: description_1 dup key: { : \\\"\\\" }\",\"op\":{\"mypic\":\"sghdj\",\"description\":\"\",\"userId\":\"5a2b62e13b74177c14cfe86a\",\"_id\":\"5a3797b903f262459876c953\",\"dateCreated\":\"2017-12-13T06:00:00.000Z\",\"__v\":0}})\n    at Function.MongoError.create (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb-core\\lib\\error.js:31:11)\n    at toError (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\utils.js:139:22)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\collection.js:668:23\n    at handleCallback (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\utils.js:120:56)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\bulk\\unordered.js:465:9\n    at handleCallback (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\utils.js:120:56)\n    at resultHandler (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\bulk\\unordered.js:413:5)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb-core\\lib\\connection\\pool.js:469:18\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\services\\model\\applyHooks.js:131:23)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\app\\controllers\\mypics.js:70:14\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)","timestamp":"2017-12-18T10:26:01.094Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T10:34:58.802Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T10:34:58.803Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T10:35:41.421Z"}
+{"level":"verbose","message":"Create a Gallery","timestamp":"2017-12-18T10:35:41.423Z"}
+{"level":"error","message":"WriteError({\"code\":11000,\"index\":0,\"errmsg\":\"E11000 duplicate key error collection: mypic-dev.mypics index: description_1 dup key: { : \\\"\\\" }\",\"op\":{\"mypic\":\"shruti\",\"description\":\"\",\"userId\":\"5a2b62e13b74177c14cfe86a\",\"_id\":\"5a3799fd03f262459876c954\",\"dateCreated\":\"2017-12-28T06:00:00.000Z\",\"__v\":0}})\n    at Function.MongoError.create (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb-core\\lib\\error.js:31:11)\n    at toError (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\utils.js:139:22)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\collection.js:668:23\n    at handleCallback (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\utils.js:120:56)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\bulk\\unordered.js:465:9\n    at handleCallback (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\utils.js:120:56)\n    at resultHandler (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\bulk\\unordered.js:413:5)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb-core\\lib\\connection\\pool.js:469:18\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\services\\model\\applyHooks.js:131:23)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\app\\controllers\\mypics.js:70:14\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)","timestamp":"2017-12-18T10:35:41.448Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T10:35:49.405Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T10:35:49.406Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T10:37:36.426Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-18T10:37:36.427Z"}
+{"level":"error","message":"ValidationError: password: Path `password` is required., email: Path `email` is required., lastName: Path `lastName` is required., firstName: Path `firstName` is required.\n    at MongooseError.ValidationError (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\error\\validation.js:28:11)\n    at model.Document.invalidate (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\document.js:1658:32)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\document.js:1530:17\n    at validate (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\schematype.js:779:7)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\schematype.js:824:11\n    at Array.forEach (native)\n    at SchemaString.SchemaType.doValidate (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\schematype.js:784:19)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\document.js:1528:9\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\services\\model\\applyHooks.js:131:23)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\app\\controllers\\users.js:52:14\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)","timestamp":"2017-12-18T10:37:36.464Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T10:37:45.099Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T10:43:13.497Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T10:43:13.769Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T10:43:13.773Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-18T10:55:13.024Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-18T10:55:13.383Z"}
+{"level":"info","message":"HTTP Server listening on port:5000, in development mode","timestamp":"2017-12-18T10:55:13.401Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-18T10:55:13.433Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T10:55:52.071Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T10:55:52.077Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-18T10:58:43.505Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-18T10:58:43.975Z"}
+{"level":"info","message":"HTTP Server listening on port:5000, in development mode","timestamp":"2017-12-18T10:58:43.997Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-18T10:58:44.032Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T10:59:43.257Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T10:59:48.306Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T10:59:49.882Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T10:59:57.771Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T10:59:58.122Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T10:59:58.136Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T11:03:05.727Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T11:03:18.410Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T11:08:28.981Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-18T11:08:28.983Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T11:08:45.953Z"}
+{"level":"verbose","message":"Get all users","timestamp":"2017-12-18T11:08:45.955Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T11:10:00.087Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T11:11:12.711Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-18T18:47:24.112Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-18T18:47:25.979Z"}
+{"level":"info","message":"HTTP Server listening on port:5000, in development mode","timestamp":"2017-12-18T18:47:25.995Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-18T18:47:26.021Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T18:50:54.226Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-18T18:50:54.264Z"}
+{"level":"error","message":"ValidationError: password: Path `password` is required., email: Path `email` is required., lastName: Path `lastName` is required.\n    at MongooseError.ValidationError (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\error\\validation.js:28:11)\n    at model.Document.invalidate (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\document.js:1658:32)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\document.js:1530:17\n    at validate (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\schematype.js:779:7)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\schematype.js:824:11\n    at Array.forEach (native)\n    at SchemaString.SchemaType.doValidate (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\schematype.js:784:19)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\document.js:1528:9\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\services\\model\\applyHooks.js:131:23)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\app\\controllers\\users.js:52:14\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)","timestamp":"2017-12-18T18:50:54.315Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T18:56:29.358Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-18T18:56:29.362Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T18:56:42.218Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T18:56:42.506Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T18:56:42.508Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T18:57:51.857Z"}
+{"level":"verbose","message":"Create a Gallery","timestamp":"2017-12-18T18:57:51.860Z"}
+{"level":"error","message":"WriteError({\"code\":11000,\"index\":0,\"errmsg\":\"E11000 duplicate key error collection: mypic-dev.mypics index: description_1 dup key: { : \\\"\\\" }\",\"op\":{\"mypic\":\"reshma\",\"description\":\"\",\"userId\":\"5a380f5d80c4d440d4b840db\",\"_id\":\"5a380faf80c4d440d4b840dc\",\"dateCreated\":\"2017-12-20T06:00:00.000Z\",\"__v\":0}})\n    at Function.MongoError.create (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb-core\\lib\\error.js:31:11)\n    at toError (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\utils.js:139:22)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\collection.js:668:23\n    at handleCallback (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\utils.js:120:56)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\bulk\\unordered.js:465:9\n    at handleCallback (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\utils.js:120:56)\n    at resultHandler (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\bulk\\unordered.js:413:5)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb-core\\lib\\connection\\pool.js:469:18\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\services\\model\\applyHooks.js:131:23)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\app\\controllers\\mypics.js:70:14\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)","timestamp":"2017-12-18T18:57:52.084Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T18:58:02.751Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T18:58:02.752Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:10:20.928Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T19:10:20.929Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:10:36.767Z"}
+{"level":"verbose","message":"Create a Gallery","timestamp":"2017-12-18T19:10:36.768Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:10:47.282Z"}
+{"level":"verbose","message":"Get user5a3812ac80c4d440d4b840dd","timestamp":"2017-12-18T19:10:47.283Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:11:43.264Z"}
+{"level":"verbose","message":"Create a Gallery","timestamp":"2017-12-18T19:11:43.267Z"}
+{"level":"error","message":"WriteError({\"code\":11000,\"index\":0,\"errmsg\":\"E11000 duplicate key error collection: mypic-dev.mypics index: description_1 dup key: { : \\\"\\\" }\",\"op\":{\"mypic\":\"shhs\",\"description\":\"\",\"userId\":\"5a380f5d80c4d440d4b840db\",\"_id\":\"5a3812ef80c4d440d4b840de\",\"dateCreated\":\"2017-12-21T06:00:00.000Z\",\"__v\":0}})\n    at Function.MongoError.create (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb-core\\lib\\error.js:31:11)\n    at toError (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\utils.js:139:22)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\collection.js:668:23\n    at handleCallback (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\utils.js:120:56)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\bulk\\unordered.js:465:9\n    at handleCallback (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\utils.js:120:56)\n    at resultHandler (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb\\lib\\bulk\\unordered.js:413:5)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongodb-core\\lib\\connection\\pool.js:469:18\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\mongoose\\lib\\services\\model\\applyHooks.js:131:23)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\app\\controllers\\mypics.js:70:14\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\mypicproj\\server\\node_modules\\express\\lib\\router\\index.js:174:3)","timestamp":"2017-12-18T19:11:43.290Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:11:49.201Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T19:11:49.203Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:12:30.201Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T19:12:30.202Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:12:30.240Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:12:30.246Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:12:30.250Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:12:35.307Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T19:12:35.308Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:12:37.442Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T19:12:37.444Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:12:37.469Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:12:37.471Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:12:37.472Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:12:56.473Z"}
+{"level":"verbose","message":"Create a photo","timestamp":"2017-12-18T19:12:56.477Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:12:56.541Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:12:56.563Z"}
+{"level":"verbose","message":"Upload file for my gallery 5a38133880c4d440d4b840df and 5a380f5d80c4d440d4b840db","timestamp":"2017-12-18T19:12:56.598Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:13:01.313Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T19:13:01.314Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:13:03.233Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T19:13:03.236Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:13:03.257Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:13:03.262Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:13:03.264Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:13:03.266Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:15:19.254Z"}
+{"level":"verbose","message":"Get user5a363d5ca0cb9546204c581d","timestamp":"2017-12-18T19:15:19.255Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:15:19.274Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:15:19.276Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:15:19.279Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:15:19.281Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:15:46.525Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T19:15:46.526Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:15:46.536Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:15:46.539Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:15:46.540Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:15:46.542Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:18:06.931Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T19:18:06.932Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:18:51.324Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T19:18:51.325Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:20:51.626Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:20:51.874Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T19:20:51.875Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:20:51.914Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:20:51.916Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:20:51.917Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:20:51.918Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:20:54.509Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T19:20:54.510Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:21:19.502Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T19:21:19.503Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:21:21.250Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T19:21:21.251Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:21:21.264Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:21:21.266Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:21:21.268Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:21:21.270Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:23:14.118Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T19:23:14.119Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:23:16.100Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T19:23:16.101Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:23:16.117Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:23:16.119Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:23:16.120Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:23:16.125Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:25:00.218Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T19:25:00.219Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:25:05.072Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T19:25:05.073Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:25:06.662Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T19:25:06.663Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:25:06.681Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:25:06.682Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:25:06.687Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:25:06.688Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:27:07.084Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T19:27:07.087Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:27:09.284Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T19:27:09.285Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:27:09.300Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:27:09.303Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:27:09.304Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:27:09.313Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:27:13.091Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T19:27:13.091Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:27:14.630Z"}
+{"level":"verbose","message":"Get user5a363d5ca0cb9546204c581d","timestamp":"2017-12-18T19:27:14.630Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:27:14.732Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:27:14.733Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:27:14.734Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:27:14.738Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:29:54.601Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T19:29:54.601Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:29:55.927Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T19:29:55.928Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:29:55.941Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:29:55.945Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:29:55.947Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:29:55.955Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:30:16.447Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T19:30:16.449Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:30:51.737Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T19:30:51.741Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:30:53.524Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T19:30:53.525Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:30:53.542Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:30:53.545Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:30:53.556Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:30:53.558Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:40:16.287Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T19:40:16.288Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:40:35.342Z"}
+{"level":"verbose","message":"Create a Gallery","timestamp":"2017-12-18T19:40:35.345Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:43:22.400Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T19:43:22.401Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:43:35.817Z"}
+{"level":"verbose","message":"Create a Gallery","timestamp":"2017-12-18T19:43:35.818Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:43:40.446Z"}
+{"level":"verbose","message":"Get user5a381a6780c4d440d4b840e1","timestamp":"2017-12-18T19:43:40.447Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:44:42.212Z"}
+{"level":"verbose","message":"Get user5a381a6780c4d440d4b840e1","timestamp":"2017-12-18T19:44:42.213Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:47:59.436Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T19:47:59.436Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:48:02.514Z"}
+{"level":"verbose","message":"Get user5a381a6780c4d440d4b840e1","timestamp":"2017-12-18T19:48:02.515Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:48:13.617Z"}
+{"level":"verbose","message":"Create a photo","timestamp":"2017-12-18T19:48:13.618Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:48:13.634Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:48:13.641Z"}
+{"level":"verbose","message":"Upload file for my gallery 5a381b7d80c4d440d4b840e2 and 5a2b62e13b74177c14cfe86a","timestamp":"2017-12-18T19:48:13.724Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:48:18.073Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T19:48:18.074Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:48:20.199Z"}
+{"level":"verbose","message":"Get user5a381a6780c4d440d4b840e1","timestamp":"2017-12-18T19:48:20.200Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:48:20.216Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:48:26.599Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T19:48:26.600Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:48:26.612Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:48:26.615Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:48:26.619Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T19:48:26.623Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-18T20:15:41.791Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-18T20:15:42.184Z"}
+{"level":"info","message":"HTTP Server listening on port:5000, in development mode","timestamp":"2017-12-18T20:15:42.202Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-18T20:15:42.228Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T20:22:13.184Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T20:22:13.504Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-18T20:22:13.506Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T20:22:19.272Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-18T20:22:19.273Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T20:22:19.291Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T20:22:19.295Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T20:22:19.304Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T20:22:19.305Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T20:22:22.388Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-18T20:22:24.120Z"}
