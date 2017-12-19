@@ -1,39 +1,57 @@
 <template>
+  
 
-
-
-<h1 style="font-family: chiller;color:#FF7F00; margin-left:15px;"><b>Registration Page 😊!!</b></h1>
+<h1 style="font-family: times new roman;color:#FF7F00; margin-left:540px;"><b>Registration!!</b></h1>
         <form class="col-lg-4 col-lg-offset-4" id="RegistrationForm">
+        
+            <table align="center" width="100%"
+            style="border-radius: 8px; 
+            height: 300px;
+            vertical-align: middle;
+            background-color: rgb(157, 198, 245);
+            top:50%;
+            left:50%;" >
+            <tr><td colspan="3">&nbsp;</td></tr> 
+            <tr>
+                <td width="5%">&nbsp;</td>
+                <td>
+                    
         <div innerhtml.bind="registerError"></div>
-      
+       
         <div class="form-group"> 
-            <label for="InputFirstName" style="color:black;font-family: chiller;font-size:160%;"><b>First Name:</b></label>
+            <label for="InputFirstName" style="color:black;font-family: times new roman;font-size:160%;"><b>First Name:</b></label>
             <input type="text" class="form-control" id="InputFirstName" 
-        aria-describedby="firstNameHelp" placeholder="Enter first name"
-                value.bind="user.firstName" style="font-family: chiller;font-size:100%;">
+        aria-describedby="firstNameHelp" placeholder=""
+                value.bind="user.firstName" style="font-family: times new roman;font-size:100%;">
         </div>
 
         <div class="form-group">
-            <label for="InputLastName" style="color:black;font-family: chiller;font-size:160%;"><b>Last Name:</b></label>
-            <input type="text" class="form-control" id="InputLastName" aria-describedby="lastNameHelp" placeholder="Enter last name" value.bind="user.lastName" style="font-family: chiller;font-size:100%;">
+            <label for="InputLastName" style="color:black;font-family: times new roman;font-size:160%;"><b>Last Name:</b></label>
+            <input type="text" class="form-control" id="InputLastName" aria-describedby="lastNameHelp" placeholder="" value.bind="user.lastName" style="font-family: times new roman;font-size:100%;">
         </div>
 
       <div class="form-group">
-            <label for="InputEmail" style="color:black;font-family: chiller;font-size:160%;"><b>Email:</b></label>
-            <input type="email" class="form-control" id="InputEmail" aria-describedby="emailHelp" placeholder="Enter email"
-                value.bind="user.email" style="font-family: chiller;font-size:100%;">
+            <label for="InputEmail" style="color:black;font-family: times new roman;font-size:160%;"><b>Email:</b></label>
+            <input type="email" class="form-control" id="InputEmail" aria-describedby="emailHelp" placeholder=""
+                value.bind="user.email" style="font-family: times new roman;font-size:100%;">
         </div>
 
         <div class="form-group">
-                <label for="password" style="color:black;font-family: chiller;font-size:160%;"><b>Password:</b></label>
-                <input value.bind="user.password" type="password" class="form-control" id="password" placeholder="Enter Password" style="font-family: chiller;font-size:100%;"></input>
+                <label for="password" style="color:black;font-family: times new roman;font-size:160%;"><b>Password:</b></label>
+                <input value.bind="user.password" type="password" class="form-control" id="password" placeholder="" style="font-family: times new roman;font-size:100%;"></input>
               </div>
         </div>
 
+        <td width="5%">&nbsp;</td>
+    </tr>
     
-    <button click.delegate="save()" class="btn btn-primary" style="color:black;font-family: chiller;font-size:160%;"><b>Save</b></button>
+<tr><td colspan="3" align="center">
+        <button click.delegate="save()"   style="font-family:palatino;font-size:140%;border-radius:6px;width:160px;height:40px;border:2px solid;"><b><i>Save</i></b></button>    
+</td></tr>
+ <tr><td colspan="3">&nbsp;</td></tr> 
    
-</form>
 
+</table>
+</form>
 
 </template>
