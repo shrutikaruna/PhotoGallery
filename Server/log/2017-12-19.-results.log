@@ -87,3 +87,32 @@
 {"level":"info","message":"Request from ::1","timestamp":"2017-12-19T04:57:32.625Z"}
 {"level":"info","message":"Request from ::1","timestamp":"2017-12-19T04:57:41.965Z"}
 {"level":"info","message":"Request from ::1","timestamp":"2017-12-19T04:57:46.283Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-19T05:10:40.481Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-19T05:10:40.848Z"}
+{"level":"info","message":"HTTP Server listening on port:5000, in development mode","timestamp":"2017-12-19T05:10:40.865Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-19T05:10:40.893Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-19T05:10:43.969Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-19T05:10:44.033Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-19T05:10:46.496Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-19T05:11:01.455Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-19T05:11:01.521Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-19T05:11:03.261Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-19T05:11:25.097Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-19T05:11:25.163Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-19T05:11:26.531Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-19T05:12:03.253Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-19T05:12:03.280Z"}
+{"level":"error","message":"ValidationError: password: Path `password` is required., email: Path `email` is required., lastName: Path `lastName` is required., firstName: Path `firstName` is required.\n    at MongooseError.ValidationError (C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\mongoose\\lib\\error\\validation.js:28:11)\n    at model.Document.invalidate (C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\mongoose\\lib\\document.js:1658:32)\n    at C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\mongoose\\lib\\document.js:1530:17\n    at validate (C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\mongoose\\lib\\schematype.js:779:7)\n    at C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\mongoose\\lib\\schematype.js:824:11\n    at Array.forEach (native)\n    at SchemaString.SchemaType.doValidate (C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\mongoose\\lib\\schematype.js:784:19)\n    at C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\mongoose\\lib\\document.js:1528:9\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickCallback (internal/process/next_tick.js:104:9)\nFrom previous event:\n    at model.wrappedPointCut [as save] (C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\mongoose\\lib\\services\\model\\applyHooks.js:131:23)\n    at C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\app\\controllers\\users.js:52:14\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (C:\\Users\\Shruti\\Desktop\\MyPhotoGallery\\server\\node_modules\\express\\lib\\router\\index.js:174:3)","timestamp":"2017-12-19T05:12:03.331Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-19T05:12:12.969Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-19T05:12:13.301Z"}
+{"level":"verbose","message":"Get Gallery for a user","timestamp":"2017-12-19T05:12:13.303Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-19T05:12:15.361Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-19T05:12:15.362Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-19T05:12:15.458Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-19T05:12:15.462Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-19T05:12:19.736Z"}
+{"level":"verbose","message":"Get user5a3812ac80c4d440d4b840dd","timestamp":"2017-12-19T05:12:19.737Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-19T05:12:34.704Z"}
+{"level":"verbose","message":"Delete pictures with id mypicid5a3812ac80c4d440d4b840dd","timestamp":"2017-12-19T05:12:34.706Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-19T05:12:41.030Z"}
+{"level":"verbose","message":"Get user5a3618c6772e6231b8d1588a","timestamp":"2017-12-19T05:12:41.032Z"}
